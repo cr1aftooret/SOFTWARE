@@ -1,0 +1,17 @@
+D:\SOFTWARE\ANSWER\110-2\bin\Debug\net8.0-windows\110-2.exe
+D:\SOFTWARE\ANSWER\110-2\bin\Debug\net8.0-windows\110-2.deps.json
+D:\SOFTWARE\ANSWER\110-2\bin\Debug\net8.0-windows\110-2.runtimeconfig.json
+D:\SOFTWARE\ANSWER\110-2\bin\Debug\net8.0-windows\110-2.dll
+D:\SOFTWARE\ANSWER\110-2\bin\Debug\net8.0-windows\110-2.pdb
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\_110_2.Form1.resources
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\110-2.csproj.GenerateResource.cache
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\110-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\110-2.AssemblyInfoInputs.cache
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\110-2.AssemblyInfo.cs
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\110-2.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\110-2.sourcelink.json
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\110-2.dll
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\refint\110-2.dll
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\110-2.pdb
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\110-2.genruntimeconfig.cache
+D:\SOFTWARE\ANSWER\110-2\obj\Debug\net8.0-windows\ref\110-2.dll
